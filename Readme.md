@@ -1,6 +1,5 @@
 # Cos'é questo repo
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)    
 
 Il repository é pensato per contenere le guide di uso interno della organizzazione GitHub e della community stessa.  
 
@@ -26,7 +25,7 @@ Le modifiche sono approvate da un ristretto team di persone della community che 
 # Cos'é Markdown
 
 Il Markdown é una sintassi per i documenti che permette di visualizzarli in modo graficamente avanzato sfruttando solo del testo.  
-Le regole di Makrdown si trova su https://daringfireball.net/projects/markdown/
+Le regole di Markdown si trova su https://daringfireball.net/projects/markdown/
 
 # Tipologie di file
 
