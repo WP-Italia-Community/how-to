@@ -1,4 +1,5 @@
 # Cos'é questo repo
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
 
 Il repository é pensato per contenere le guide di uso interno della organizzazione GitHub e della community stessa.  
 
