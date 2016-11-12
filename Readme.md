@@ -17,7 +17,7 @@ Le guide sono tematiche suddivise per cartelle. A seconda del soggetto possono e
 
 # Come proporre una nuova cartella
 
-Le cartelle sono pensate per categoria di argomento, quindi per poterne proporre una nuova è richiesta l'apertura di un ticket.
+Le cartelle sono pensate per categoria di argomento, quindi per poterne proporre una nuova è richiesta l'apertura di un ticket. Ogni cartella deve contenere un file readme che spiega perchè esiste.
 
 # Chi approva le modifiche
 
