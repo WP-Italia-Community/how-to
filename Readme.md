@@ -1,4 +1,5 @@
 # Cos'è questo repo
+
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)    
 
 Il repository è pensato per contenere le guide di uso interno dell'organizzazione GitHub e della community stessa.  
@@ -8,8 +9,9 @@ Il repository è pensato per contenere le guide di uso interno dell'organizzazio
 Le guide per poter essere aggiornate o modificate seguono un processo di revisione che si effettua tramite i ticket disponibili nel repo.
 
 Per poter partecipare e suggerire nuove guide si possono seguire due procedimenti:
-* Fare una pull request con la guida (guida in lavorazione nella cartella)
-* Aprire un ticket e partecipare alla discussione
+
+*   Fare una pull request con la guida (guida in lavorazione nella cartella)
+*   Aprire un ticket e partecipare alla discussione
 
 # Come è fatta una guida
 
@@ -26,7 +28,7 @@ Le modifiche sono approvate da un ristretto team di persone della community che 
 # Cos'è Markdown
 
 Il Markdown è una sintassi per i documenti che permette di visualizzarli in modo graficamente avanzato sfruttando solo del testo.  
-Le regole e sintassi di Markdown per GitHub si trovano su https://help.github.com/categories/writing-on-github/
+Le regole e sintassi di Markdown per GitHub si trovano su <https://help.github.com/categories/writing-on-github/>
 
 # Tipologie di file
 

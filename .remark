@@ -1,8 +1,21 @@
 {
-  "presets": ["lint-recommended"],
+  "output": true,
   "plugins": {
     "lint": {
-      "list-item-indent": false
-    }
+      "list-item-indent": false,
+      "checked": "x",
+      "number": 1,
+      "hard-break-spaces": true,
+      "heading-increment": true,
+      "no-auto-link-without-protocol": true
+    },
+    "toc": {
+      "maxDepth": 3,
+      "tight": true
+    },
+    "slug": null
+  },
+  "settings": {
+    "bullet": "*"
   }
 } 
