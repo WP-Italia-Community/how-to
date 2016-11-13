@@ -26,7 +26,7 @@ Le modifiche sono approvate da un ristretto team di persone della community che 
 # Cos'è Markdown
 
 Il Markdown è una sintassi per i documenti che permette di visualizzarli in modo graficamente avanzato sfruttando solo del testo.  
-Le regole di Markdown si trova su https://daringfireball.net/projects/markdown/
+Le regole e sintassi di Markdown per GitHub si trovano su https://help.github.com/categories/writing-on-github/
 
 # Tipologie di file
 
