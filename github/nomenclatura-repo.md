@@ -1,5 +1,10 @@
 # Nomenclatura dei repo
 
+## Indice
+
+*   [Sintassi](#sintassi)
+*   [Se mi serve un repo](#se-mi-serve-un-repo)
+
 ## Sintassi
 
 Il nome dei repository devono essere in minuscolo e gli spazi convertiti come trattini ( - ).  

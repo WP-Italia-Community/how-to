@@ -4,6 +4,13 @@ La Pull Request è una funzionalità offerta dal sistema Git per richiedere modi
 
 Chiunque abbia un'account su Github può effettuare Pull Request su ogni repository, che poi saranno approvate a discrezione del proprietario del repository stesso.
 
+## Indice
+
+*   [Come creare una Pull Request](#come-creare-una-pull-request)
+    *   [1. Fork del repository](#1-fork-del-repository)
+    *   [2. Modifica del file](#2-modifica-del-file)
+*   [Regole specifiche di WP Italia Community](#regole-specifiche-di-wp-italia-community)
+
 ## Come creare una Pull Request
 
 Per creare una Pull Request nei repository di WP-Italia-Community è necessario disporre di un account Github. Se devi crearne uno, [inizia da qui](https://github.com/join?source=header-home).

@@ -2,6 +2,16 @@
 
 Questo codice di condotta (da qui in poi “CoC”, dall’inglese _Code of Conduct_) si basa sul CoC adottato dai WordCamp e dagli eventi relativi alla comunità globale di WordPress.
 
+## Indice
+
+*   [TL;DR](#tldr)
+*   [Italia WP Community è per chiunque](#italia-wp-community-è-per-chiunque)
+*   [Comportamenti attesi](#comportamenti-attesi)
+*   [Comportamenti non accettabili](#comportamenti-non-accettabili)
+*   [Conseguenze nel caso di comportamenti non accettabili](#conseguenze-nel-caso-di-comportamenti-non-accettabili)
+*   [Altre indicazioni](#altre-indicazioni)
+*   [Licenza e attribuzione](#licenza-e-attribuzione)
+
 ## TL;DR
 
 Ci aspettiamo reciproco rispetto e sostegno da parte di tutti i membri di Italia WP Community.

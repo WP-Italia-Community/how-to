@@ -11,7 +11,8 @@
     },
     "toc": {
       "maxDepth": 3,
-      "tight": true
+      "tight": true,
+      "heading": "Indice"
     },
     "slug": null
   },

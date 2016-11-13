@@ -1,5 +1,10 @@
 # Come creare una label
 
+## Indice
+
+*   [Cos'è una label](#cosè-una-label)
+*   [Come creare una label](#come-creare-una-label-1)
+
 ## Cos'è una label
 
 Le label o etichette permettono di categorizzare i ticket e pull request con un colore ed un termine.  
