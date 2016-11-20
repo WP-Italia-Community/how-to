@@ -11,6 +11,7 @@ Il repository è pensato per contenere le guide di uso interno dell'organizzazio
 *   [Come proporre una nuova cartella](#come-proporre-una-nuova-cartella)
 *   [Chi approva le modifiche](#chi-approva-le-modifiche)
 *   [Cos'è Markdown](#cosè-markdown)
+    *   [Il lint](#il-lint)
 *   [Tipologie di file](#tipologie-di-file)
 *   [Licenza](#licenza)
 
@@ -39,6 +40,11 @@ Le modifiche sono approvate da un ristretto team di persone della community che 
 
 Il Markdown è una sintassi per i documenti che permette di visualizzarli in modo graficamente avanzato sfruttando solo del testo.  
 Le regole e sintassi di Markdown per GitHub si trovano su <https://help.github.com/categories/writing-on-github/>
+
+### Il lint
+
+In ambito di programmazione il linting é quella pratica che permette di verificare e correggere gli errori di stile del codice ma nel nostro caso del testo in modo che la sintassi e la struttura sia uniforme tra piu persone e nel tempo.  
+Questo lint al momento é eseguito manualmente da chi ha le capacità utilizzando lo script `markdown-lint.sh` che lo effettua in automatico su tutti i file.
 
 ## Tipologie di file
 
