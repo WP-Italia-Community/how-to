@@ -57,7 +57,7 @@ Se un utente si comporta in maniera non accettabile, gli amministratori della co
 
 *   Man mano che la comunità cresce, tenere traccia di nickname e brand può diventare complicato: laddove non vi siano controindicazioni di qualsivoglia natura, compilate il vostro profilo con nome e cognome.
 *   Scrivere nei canali pubblici favorisce la collaborazione nel rispetto della cultura open source e, nel dubbio, deve essere sempre preferito a collaborare in canali privati o messaggi 1-a-1.
-*   La WordPress Foundation ha piena autorità sui nomi e loghi di WordPress e WordCamp. Cerchiamo di non violare le loro regole, che potete trovare qui.
+*   La WordPress Foundation ha piena autorità sui nomi e loghi di WordPress e WordCamp. Cerchiamo di non violare le loro regole, che potete trovare [qui](http://wordpressfoundation.org/trademark-policy/).
 
 ## Licenza e attribuzione
 
