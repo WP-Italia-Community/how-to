@@ -61,4 +61,4 @@ Se un utente si comporta in maniera non accettabile, gli amministratori della co
 
 ## Licenza e attribuzione
 
-Questo CoC è liberamente tratto da quello di Open Source Bridge. L’originale è disponibile qui, ed è rilasciato sotto licenza Creative Commons Attribution-ShareAlike.
+Questo CoC è liberamente tratto da quello di Open Source Bridge. L’originale è disponibile [qui](http://opensourcebridge.org/about/code-of-conduct/), ed è rilasciato sotto licenza Creative Commons Attribution-ShareAlike.
