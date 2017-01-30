@@ -1,6 +1,6 @@
-# Codice di condotta
+# Manifesto e Codice di Condotta Community
 
-Questo codice di condotta (da qui in poi “CoC”, dall’inglese _Code of Conduct_) si basa sul CoC adottato dai WordCamp e dagli eventi relativi alla comunità globale di WordPress.
+Queste semplici regole di convivenza si basano sul Codice di Condotta adottato dai WordCamp e dagli eventi relativi alla comunità globale di WordPress.
 
 ## Indice
 
@@ -61,4 +61,5 @@ Se un utente si comporta in maniera non accettabile, gli amministratori della co
 
 ## Licenza e attribuzione
 
+Testo originale del [Codice di Condotta WordCamp](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/code-of-conduct/)
 Questo CoC è liberamente tratto da quello di Open Source Bridge. L’originale è disponibile [qui](http://opensourcebridge.org/about/code-of-conduct/), ed è rilasciato sotto licenza Creative Commons Attribution-ShareAlike.
