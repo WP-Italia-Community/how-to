@@ -1,6 +1,6 @@
 # Come creare un nuovo file su GitHub
 
-GitHub permette di creare un nuovo file all'interno di un repository direttamente da web.
+GitHub permette di creare un nuovo file all'interno di un repository direttamente dal sito web.
 
 1. Aprire il repository di interesse su GitHub.
 
