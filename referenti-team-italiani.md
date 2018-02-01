@@ -1,20 +1,24 @@
-##Supporto
-###Team Leader: 
+## Supporto
+
+### Team Leader: 
 * Cristiano Zanca (@cristianozanca)
-###Moderatori: 
+
+### Moderatori: 
 * Cristiano Zanca (@cristianozanca)
 * Guido Scialfa (@guido)
 * Rosetta Facciolini (@rosettafacciolini)
 * Francesco Di Candia (@francescodicandia)
 * Andrea Barghigiani (@andreabarghigiani)
 
-##Polyglots
+## Polyglots
 https://make.wordpress.org/polyglots/teams/?locale=it_IT
 
-##Core
-#Team Leader: 
+## Core
+
+### Team Leader: 
 * Daniele Scasciafratte (@mte90)
 
-##Community
-#Team Leader: 
+## Community
+
+### Team Leader: 
 * Gloria Liuni (@glorialchemica)
