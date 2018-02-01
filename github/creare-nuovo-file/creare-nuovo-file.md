@@ -8,7 +8,7 @@ GitHub permette di creare un nuovo file all'interno di un repository direttament
 
 ![Il pulsante per creare un nuovo file](/github/creare-nuovo-file/immagini/create-new-file-button.png?raw=true)
 
-3. Inserire il nome del file.
+3. Inserire il nome del file. **Nota:** se inserite solo il nome del file Github, creerà un file codice, non sarà quindi possibile la formattazione del testo. Se al nome del file aggiungete l'estensione .md, verrà creato un file formattabile secondo questa guida https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings
 
 ![Il campo per il nome del file](/github/creare-nuovo-file/immagini/name-new-file.png?raw=true)
 
