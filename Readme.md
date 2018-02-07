@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)    
 
-Il repository è pensato per contenere le guide di uso interno dell'organizzazione GitHub e della community stessa.  
+Il repository è pensato per contenere le guide di uso interno dell'organizzazione GitHub e della [community stessa](https://github.com/WP-Italia-Community/how-to/blob/master/referenti-team-italiani.md).  
 
 ## Indice
 
@@ -44,7 +44,7 @@ Le regole e sintassi di Markdown per GitHub si trovano su <https://help.github.c
 ### Il lint
 
 In ambito di programmazione il linting é quella pratica che permette di verificare e correggere gli errori di stile del codice ma nel nostro caso del testo in modo che la sintassi e la struttura sia uniforme tra piu persone e nel tempo.  
-Questo lint al momento é eseguito manualmente da chi ha le capacità utilizzando lo script `markdown-lint.sh` che lo effettua in automatico su tutti i file.
+Questo lint al momento é eseguito manualmente da chi ha le capacità tecniche utilizzando lo script `markdown-lint.sh` che lo effettua in automatico su tutti i file.
 
 ## Tipologie di file
 
