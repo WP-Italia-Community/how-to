@@ -19,23 +19,16 @@ Per creare una Pull Request nei repository di WP-Italia-Community è necessario 
 
 Come prima cosa va creata una copia del repository nel proprio account, facendo un fork. 
 
-Per automatizzare la creazione di fork, si può modificare direttamente il file desiderato dall'interfaccia web di Github.com. Per modificare il file, cliccare sul nome dello stesso e nella pagina di visualizzazione, cliccare sul pulsante di modifica in alto a destra. Questa serie di operazioni creerà automaticamente un fork nel vostro profilo Github.
+Per automatizzare la creazione di fork, si può modificare direttamente il file desiderato dall'interfaccia web di Github.com.
 
-![1](https://cloud.githubusercontent.com/assets/8268753/19939923/30e23224-a12b-11e6-8b15-ddc8715ac702.png) 
-![2](https://cloud.githubusercontent.com/assets/8268753/19939941/41778e54-a12b-11e6-905b-71bea399d120.png)
+### 2. Creazione e modifica del file
 
-### 2. Modifica del file
+I file se sono dei [markdown](https://it.wikipedia.org/wiki/Markdown) richiedono di conoscere questa sintassi altrimenti se non seguono le regole l'approvazione della modifica sarà rallentata causa revisione.
+Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/master/github/creare-nuovo-file/creare-nuovo-file.md) specifica. 
 
-Una volta forkato il repository, si può modificare il file, aggiungendo il contenuto necessario e cancellando le righe non desiderate.
+### 3. Fare una Pull Request
 
-E' possibile vedere un'anteprima delle proprie modifiche cliccando sulla tab _Preview Changes_
-![page-shot-2016-11-2 wp-italia-community how-to 4](https://cloud.githubusercontent.com/assets/8268753/19940560/5f02b6f4-a12d-11e6-96ce-f2dd7c7c904d.png)
-
-Puoi effettuare piuŭ modifiche, anche a diversi file. In questo modo verrano creati piu commit contenenti le varie differenze.
-
-Quando hai terminato, per inviare la tua richiesta di cambiamento del file (ovvero la pull request che é unica per tutte le modifiche), devi compilare i due campi che trovi in fondo alla pagina, per dare un titolo alla tua modifica e aggiungere una breve descrizione e motivazione dei cambiamenti (opzionale, ma raccomandata) e premere il bottone di conferma _Propose file change_
-
-![page-shot-2016-11-2 wp-italia-community how-to 3](https://cloud.githubusercontent.com/assets/8268753/19940453/0378486c-a12d-11e6-8ed2-661e0f57f4db.png)
+Rimandiamo alla [guida ufficiale](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) (in attesa di qualche volontario che la voglia fare in italiano con screen di questo repository).
 
 ## Regole specifiche di WP Italia Community
 
