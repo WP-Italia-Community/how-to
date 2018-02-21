@@ -1,1 +1,1 @@
-Questa cartella contiene delle slide generiche a disposizione di tutta la comunità. Il formato deve essere ppt o pptx in modo da essere leggibile da diversi software senza problemi.  
+Questa cartella contiene i link a slide generiche a disposizione di tutta la comunità. La presentazione deve essere su Google Slides (in modalità di lettura senza richiesta di permessi con i commenti attivi), in questo modo sarà possibile scaricare la stessa in diversi formati senza grandi difficoltà e permettere una partecipazione di tutta la comunità.
