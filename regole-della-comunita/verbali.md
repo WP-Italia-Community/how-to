@@ -20,11 +20,23 @@ Il verbale deve consistere in:
 * Se possibile inserire quando ci sarà la prossima riunione
 * Contenere un ordine del giorno (se presente)
 
+Sempre usare il formato Standard e non Aside nell'editor, per farlo dovete dare un titolo (cliccando su quell'icona illeggbile sulla destra del post).
+
+![](https://user-images.githubusercontent.com/5690173/36482073-525fb724-1712-11e8-8781-dfda2d0ccbd9.png)
+
 ## Il riassunto
 
 Il riassunto dipende dalla tipologia di riunione sul tema perché potrebbe essere necessario farla come un elenco oppure un riassunto scritto diviso per argomenti.   
 Ad esempio un elenco per assegnare le cose da fare taggando le persone oppure un riassunto veloce di una riunione in cui è stata fatta solo formazione.  
 
 L'ideale è aggiungere un link alla chat Slack, questa soluzione però nel lungo termine è sconsigliata. Il problema è che non abbiamo il piano a pagamento e quindi dopo qualche giorno o mese lo storico della chat non è più raggiungibile o facilmente navigabile. 
-La soluzione è caricare la chat (se necessario)  su altri siti come pastebin ad esempio.
+La soluzione è caricare la chat (se necessario)  su altri siti come pastebin ad esempio.  
+Ordine del giorno (detto ODG) e verbali solitamente sono due notizie diverse sul portale da pubblicare prima e dopo l'incontro.
 
+### Formattazione
+
+Il testo come già spiegato è preferibile se diviso in sezioni con titoli ed elenchi per facilitare una lettura veloce.
+
+## Dopo la pubblicazione
+
+Una notizia pubblicata può essere marcata come "Da Fare" e verrà evidenziata in rosso (cliccando sul pulsante sottostante), utile per gli ordini del giorno.
