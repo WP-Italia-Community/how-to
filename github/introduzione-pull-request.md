@@ -8,7 +8,7 @@ Chiunque abbia un'account su Github può effettuare Pull Request su ogni reposit
 
 *   [Come creare una Pull Request](#come-creare-una-pull-request)
     *   [1. Fork del repository](#1-fork-del-repository)
-    *   [2. Modifica del file](#2-modifica-del-file)
+    *   [2. Creazione e modifica del file](#2-creazione-e-modifica-del-file)
     *   [3. Fare una Pull Request](#3-fare-una-pull-request)
 *   [Regole specifiche di WP Italia Community](#regole-specifiche-di-wp-italia-community)
 
