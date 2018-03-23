@@ -36,22 +36,32 @@ Ecco i passaggi da seguire:
 1. vai al repository github di cui hai creato il fork, ossia il nostro [WP-Italia-Community/how-to](https://github.com/WP-Italia-Community/how-to)
 
 1. dalla tab "<> Code", che di solito è selezionata di default, fai clic sul pulsante "New pull request"
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step2.png)
 
 1. nella schermata "Compare changes" fai clic su "compare across forks"
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step3.png)
 
 1. nel menu a tendina "base fork" lascia il repository "WP-Italia-Community/how-to", lascia anche "base:master"
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step4.png)
 
 1. dal menu a tendina "head fork" seleziona il tuo fork: "tuonomegithub/how-to"
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step5.png)
 
 1. a questo punto in automatico viene effettuata una comparazione tra il repository ufficiale e il tuo fork e la schermata viene aggiornata, verifica che le modifiche siano proprio quelle di cui vuoi chiedere l'integrazione
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step6.png)
 
 1. scrivi un titolo e una descrizione del motivo della PR
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step7.png)
 
 1. lascia selezionato "Allow edits from maintainers" affinché gli amministratori del repository ufficiale possano apportare modifiche alla tua PR
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step8.png)
 
 1. fai clic su "Create pull request"
+![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step9.png)
+
 
 FATTO!
+
 
 [Link all guida ufficiale GitHub per le Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
