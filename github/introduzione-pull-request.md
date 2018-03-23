@@ -33,23 +33,25 @@ Tramite una Pull Request, d'ora in poi PR, si può chiedere che i file creati o 
 
 Ecco i passaggi da seguire:
 
-1. andare al repository github di cui si è creato il fork ossia il nostro [WP-Italia-Community/how-to](https://github.com/WP-Italia-Community/how-to)
+1. vai al repository github di cui hai creato il fork, ossia il nostro [WP-Italia-Community/how-to](https://github.com/WP-Italia-Community/how-to)
 
-1. dalla tab "<> Code", che di solito è selezionata di default, fare clic sul pulsante "New pull request"
+1. dalla tab "<> Code", che di solito è selezionata di default, fai clic sul pulsante "New pull request"
 
-1. nella schermata "Compare changes" fare clic su "compare across forks"
+1. nella schermata "Compare changes" fai clic su "compare across forks"
 
-1. nel menu a tendina "base fork" lasciare il repository "WP-Italia-Community/how-to", lasciare anche "base:master"
+1. nel menu a tendina "base fork" lascia il repository "WP-Italia-Community/how-to", lascia anche "base:master"
 
-1. dal menu a tendina "head fork" selezionare il proprio fork "tuonomegithub/how-to"
+1. dal menu a tendina "head fork" seleziona il tuo fork: "tuonomegithub/how-to"
 
-1. a questo punto in automatico viene effettuata una comparazione tra il repository e il proprio fork e la schermata viene aggiornata, verificare che le modifiche siano proprio quelle di cui si vuole chiedere l'integrazione
+1. a questo punto in automatico viene effettuata una comparazione tra il repository ufficiale e il tuo fork e la schermata viene aggiornata, verifica che le modifiche siano proprio quelle di cui vuoi chiedere l'integrazione
 
-1. scrivere un titolo e una descrizione del motivo della PR
+1. scrivi un titolo e una descrizione del motivo della PR
 
-1. lasciare selezionato "Allow edits from maintainers" affinché gli amministratori del repository ufficiale possano apportare modifiche alla propria PR
+1. lascia selezionato "Allow edits from maintainers" affinché gli amministratori del repository ufficiale possano apportare modifiche alla tua PR
 
-1. fare clic su "Create pull request"
+1. fai clic su "Create pull request"
+
+FATTO!
 
 [Link all guida ufficiale GitHub per le Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
