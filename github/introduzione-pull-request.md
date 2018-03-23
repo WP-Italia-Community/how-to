@@ -9,6 +9,7 @@ Chiunque abbia un'account su Github può effettuare Pull Request su ogni reposit
 *   [Come creare una Pull Request](#come-creare-una-pull-request)
     *   [1. Fork del repository](#1-fork-del-repository)
     *   [2. Modifica del file](#2-modifica-del-file)
+    *   [3. Fare una Pull Request](#3-fare-una-pull-request)
 *   [Regole specifiche di WP Italia Community](#regole-specifiche-di-wp-italia-community)
 
 ## Come creare una Pull Request
@@ -28,7 +29,27 @@ Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/maste
 
 ### 3. Fare una Pull Request
 
-Rimandiamo alla [guida ufficiale](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) (in attesa di qualche volontario che la voglia fare in italiano con screen di questo repository).
+Tramite una Pull Request, d'ora in poi, PR si può chiedere che i file creati o modificati nel proprio fork siano integrati nel repository ufficiale.
+
+Ecco i passaggi da seguire:
+
+1. vai al repository github di cui hai creato il fork ossia il nostro [WP-Italia-Community/how-to](https://github.com/WP-Italia-Community/how-to)
+
+1. dalla tab "<> Code", che di solito è selezionata di default, fai clic sul pulsante "New pull request"
+
+1. in "Compare changes" fai clic su "compare across forks"
+
+1. dal menu a tendina "base fork" seleziona il repository in cui vuoi chiedere che siano integrate le tue modifiche "xxx"
+
+1. dal menu a tendina "head fork" seleziona il tuo fork
+
+1. scrivi un titolo e una descrizione del motivo della tua PR
+
+1. lascia selezionato "Allow edits from maintainers" affinché gli amministratori del repository ufficiale possano apportare modifiche alla tua PR
+
+1. fai clic su "Create pull request"
+
+[guida ufficiale Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 ## Regole specifiche di WP Italia Community
 
