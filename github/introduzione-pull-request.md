@@ -29,7 +29,7 @@ Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/maste
 
 ### 3. Fare una Pull Request
 
-Tramite una Pull Request, d'ora in poi, PR si può chiedere che i file creati o modificati nel proprio fork siano integrati nel repository ufficiale.
+Tramite una Pull Request, d'ora in poi PR, si può chiedere che i file creati o modificati nel proprio fork siano integrati nel repository ufficiale.
 
 Ecco i passaggi da seguire:
 
