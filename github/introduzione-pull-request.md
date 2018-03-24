@@ -44,7 +44,7 @@ Ecco i passaggi da seguire:
 1. nel menu a tendina "base fork" lascia il repository "WP-Italia-Community/how-to", lascia anche "base:master"
 ![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step4.png)
 
-1. dal menu a tendina "head fork" seleziona il tuo fork: "tuonomegithub/how-to"
+1. dal menu a tendina "head fork" seleziona il tuo fork: "_tuonomegithub_/how-to"
 ![Pulsante New pull request](https://github.com/lidialab/how-to/blob/master/github/img/step5.png)
 
 1. a questo punto in automatico viene effettuata una comparazione tra il repository ufficiale e il tuo fork e la schermata viene aggiornata, verifica che le modifiche siano proprio quelle di cui vuoi chiedere l'integrazione
@@ -63,7 +63,7 @@ Ecco i passaggi da seguire:
 FATTO!
 
 
-[Link all guida ufficiale GitHub per le Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+[Link alla guida ufficiale GitHub per le Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 ## Regole specifiche di WP Italia Community
 
