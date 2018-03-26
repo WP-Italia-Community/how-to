@@ -29,9 +29,7 @@ Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/maste
 
 ### 3. Fare una Pull Request
 
-Tramite una Pull Request si può chiedere che i file creati o modificati nel proprio fork siano integrati nel repository ufficiale. Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/master/github/fare-pull-request/fare-pull-request.md) specifica. 
-
-[Link alla guida ufficiale GitHub (inglese) per le Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+Tramite una Pull Request si può chiedere che i file creati o modificati nel proprio fork siano integrati nel repository ufficiale. Rimandiamo alla [guida](https://github.com/WP-Italia-Community/how-to/blob/master/github/fare-pull-request/fare-pull-request.md) specifica.
 
 ## Regole specifiche di WP Italia Community
 
