@@ -1,5 +1,5 @@
 
-#Elenco degli strumenti e delle risorse per le traduzioni
+# Elenco degli strumenti e delle risorse per le traduzioni
 
 * Il [Glossario](https://translate.wordpress.org/locale/it/default/glossary) ufficiale
 * Il [Consistency tool](https://translate.wordpress.org/consistency)
