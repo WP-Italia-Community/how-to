@@ -13,6 +13,7 @@
 11.  [Brindisi](https://www.meetup.com/it-IT/WordPress-Meetup-Brindisi/) @antotrifiroconaccento
 12.  [Catania](http://www.meetup.com/it-IT/Meetup-WordPress-Catania/) @antoscarface @francgrasso @wido
 13.  [Genova](http://www.meetup.com/it/WordPress-Meetup-Genova/) @andg
+14.  [Lecce](https://www.meetup.com/it-IT/WordPress-Meetup-Lecce/) @giulianogrowler @marco_desangro
 14.  [Milano](http://www.meetup.com/WordPress-Meetup-Milano/) @realloc @jubstuff @garusky @paperplane @pjska
 15.  [Padova](http://www.meetup.com/it-IT/Padova-WordPress-Meetup/) @alessandro-vecchiato
 16.  [Palermo](https://www.meetup.com/it-IT/Palermo-WordPress-Meetup/) @andreabarghigiani
