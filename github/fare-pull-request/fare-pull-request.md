@@ -1,4 +1,3 @@
-
 # Fare una Pull Request
 
 Tramite una Pull Request, d'ora in poi PR, si può chiedere che i file creati o modificati nel proprio fork/branch/ siano integrati nel repository ufficiale.
