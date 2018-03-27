@@ -19,7 +19,10 @@ Ecco i passaggi da seguire:
 1. dal menu a tendina "head fork" seleziona il tuo fork: "_tuonomegithub_/how-to"   
 ![New pull request step5](https://github.com/lidialab/how-to/blob/master/github/fare-pull-request/immagini/step5.png)
 
-1. a questo punto in automatico viene effettuata una comparazione tra il repository ufficiale e il tuo fork e la schermata viene aggiornata, verifica che le modifiche siano proprio quelle di cui vuoi chiedere l'integrazione
+1. dal menu a tendina "compare" seleziona il tuo branch: "_nome-del-tuo-branch_"   
+![New pull request step5](https://github.com/lidialab/how-to/blob/master/github/fare-pull-request/immagini/step55.png)
+
+1. a questo punto in automatico viene effettuata una comparazione tra il repository ufficiale e il tuo fork/branch/ e la schermata viene aggiornata, verifica che le modifiche siano proprio quelle di cui vuoi chiedere l'integrazione
 ![New pull request step6](https://github.com/lidialab/how-to/blob/master/github/fare-pull-request/immagini/step6.png)
 
 1. scrivi un titolo e una descrizione del motivo della PR   
