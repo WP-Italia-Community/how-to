@@ -15,5 +15,5 @@
 
 ## Handbook
 
-* Leggi l'[handbook](https://make.wordpress.org/polyglots/handbook/) in inglese
-* Leggi l'[handbook](https://it.wordpress.org/traduzioni/) in italiano
+* Leggi [il manuale in inglese](https://make.wordpress.org/polyglots/handbook/)
+* Leggi [il manuale in italiano](https://it.wordpress.org/traduzioni/)
