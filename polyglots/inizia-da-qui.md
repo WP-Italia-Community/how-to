@@ -9,9 +9,9 @@
 
 ## Iscrizione a Slack
 
-* Che cos'è [Slack](https://it.wordpress.org/slack/)?
-* Come iscriversi a [Slack](https://make.wordpress.org/chat/) (pdf in inglese)
-* Come iscriversi a [Slack](https://it.wordpress.org/files/2015/07/GuidaiscrizionealloSlackdiItaliaWPCommunity.pdf) (pdf in italiano)
+* Che cos'è, come funziona e come iscriversi a [Slack](https://it.wordpress.org/slack/).
+* Se preferisci una versione PDF in inglese la trovi [qui](https://make.wordpress.org/chat/)
+* Se preferisci una versione PDF in italiano la trovi [qui](https://it.wordpress.org/files/2015/07/GuidaiscrizionealloSlackdiItaliaWPCommunity.pdf)
 
 ## Handbook
 
