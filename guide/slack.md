@@ -16,15 +16,18 @@ I passaggi per l’iscrizione al nostro Slack sono:
 # Come ci si registra allo Slack di Italia WP Community?
 
 Prima di tutto, hai bisogno di creare un account su [WordPress.org](https://wordpress.org/).  
-Nel caso ne avessi già uno, basta effettuare il [login](https://login.wordpress.org/).  
 A questo punto ti sarà stato assegnato un indirizzo email del tipo *nomeutente@chat.wordpress.org* che serve come login per Slack.  
 Visita il sito [https://italia-wp-community.slack.com/signup](https://italia-wp-community.slack.com/signup) e registra un nuovo account utilizzando il tuo indirizzo email nomeutente@chat.wordpress.org.  
+Se si usa il client mobile è sufficente digitare _italia-wp-community_ e proseguire utilizzando la stessa procedura.
 
-*Nota: È necessario utilizzare questo indirizzo email per potersi registrare, non usare il tuo indirizzo personale.*
+*Nota: È necessario utilizzare questo indirizzo email per potersi registrare, non usare il tuo indirizzo personale!*
 **Congratulazioni!**
 Ora fai parte della comunità italiana di WordPress! 
 
 ## Comunità internazionale
+
+Devi avere un account su WordPress.org e la procedura è leggermente diversa effettua il [login](https://login.wordpress.org/).  
+Successivamente devi fare richeista dell'invito su [http://make.wordpress.org/chat/](http://make.wordpress.org/chat/) e seguire la guida (cliccare su un pulsante ma è documentato).
 Vai su su [https://wordpress.slack.com/](https://wordpress.slack.com/) per attivare il tuo account come per lo Slack italiano.
 Benvenuto su Make WordPress, il canale ufficiale per la comunicazione tra tutti i contributori al progetto WordPress.
 
