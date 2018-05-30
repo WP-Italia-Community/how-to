@@ -10,8 +10,8 @@ Di conseguenza, abbiamo deciso di creare uno Slack anche per la community italia
 I passaggi per l’iscrizione al nostro Slack sono:
 
 * creazione di un account su [WordPress.org](https://wordpress.org/)
-* iscrizione allo Slack italiano
-* iscrizione allo Slack internazionale (non obbligatorio)
+* iscrizione allo Slack italiano, Italia WP Community
+* iscrizione allo Slack internazionale (non obbligatorio), Making WordPress
 
 # Come ci si registra allo Slack di Italia WP Community?
 
