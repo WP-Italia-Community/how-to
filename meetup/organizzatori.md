@@ -23,8 +23,9 @@
 20.  [Reggio Emilia](http://www.meetup.com/WordPress-Community-Reggio-Emilia/) @cieffe27 @sghedo
 21.  [Roma](http://www.meetup.com/RomaWordPress/) @eugeniopetulla
 22.  [Romagna](http://www.meetup.com/Romagna-WordPress-Meetup/) @mauriziomelandri @cardy
-23.  [Torino](http://www.meetup.com/WordPress-Meetup-Torino/) @cristianozanca @catortorella @ljuba_davie @lasacco @ironicmoka @glorialchemica
-24.  [Treviso](https://www.meetup.com/it-IT/Treviso-WordPress-Meetup/) @rosettafacciolini
-25.  [Udine](https://www.meetup.com/it-IT/Udine-WordPress-Meeup) @lucasartoni
-26.  [Verona](http://www.meetup.com/it-IT/Verona-WordPress-Meetup/) @carriedesign @giuliatosato
-27.  [Vicenza](https://www.meetup.com/it-IT/WordPress-Meetup-Vicenza/) @tamara-it
+23.  [Teramo](https://www.meetup.com/it-IT/WordPress-Meetup-Teramo/) @marcochiesi @Clodio Solitario
+24.  [Torino](http://www.meetup.com/WordPress-Meetup-Torino/) @cristianozanca @catortorella @ljuba_davie @lasacco @ironicmoka @glorialchemica
+25.  [Treviso](https://www.meetup.com/it-IT/Treviso-WordPress-Meetup/) @rosettafacciolini
+26.  [Udine](https://www.meetup.com/it-IT/Udine-WordPress-Meeup) @lucasartoni
+27.  [Verona](http://www.meetup.com/it-IT/Verona-WordPress-Meetup/) @carriedesign @giuliatosato
+28.  [Vicenza](https://www.meetup.com/it-IT/WordPress-Meetup-Vicenza/) @tamara-it
