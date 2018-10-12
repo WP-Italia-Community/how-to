@@ -20,5 +20,9 @@ https://make.wordpress.org/polyglots/teams/?locale=it_IT
 
 ## Community
 
+### Global Community Deputy
+* Francesca Marano (@francina)
+
 ### Team Leader: 
 * Gloria Liuni (@glorialchemica)
+* Francesco Di Candia (francescodicandia)
