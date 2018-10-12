@@ -1,6 +1,5 @@
 
 # 1. Scopo
-
 Il WordPress Meetup di XXXNOMECITTÀXXX ritiene che la community debba essere aperta a tutti. Per questo ci siamo impegnati a fornire un ambiente amichevole, sicuro ed accogliente, indipendentemente da sesso, orientamento sessuale, disabilità, etnia, religione, sistema operativo preferito, linguaggio di programmazione o editor di testo.
 
 Questo codice di condotta delinea il comportamento che ci aspettiamo dai partecipanti, nonché le conseguenze in caso di comportamento inaccettabile.
@@ -15,7 +14,6 @@ Per raggiungere questo obiettivo, gli organizzatori del Meetup di  XXXNOMECITTÀ
 Se notate qualcuno che sta facendo uno sforzo in più per garantire che la nostra Community sia accogliente, cordiale e incoraggi tutti i partecipanti a contribuire nella misura più ampia, vogliamo conoscerlo. È possibile segnalare qualcuno parlando con l'organizzatore dell'evento oppure online.
 
 # 3. Comportamenti attesi
-
 Sii premuroso, rispettoso e collaborativo.
 Evita comportamenti e linguaggio umilianti, discriminatori o molesti.
 Sii consapevole dell’ambiente circostante e degli altri partecipanti. 
@@ -23,7 +21,6 @@ Qualora notassi una situazione pericolosa o qualcuno in difficoltà, avvisa subi
 Partecipa in modo autentico ed attivo. Così facendo contribuirai a creare il Meetup di XXXNOMECITTÀXXX  e renderlo tuo.
 
 # 4. Comportamenti non accettabili
-
 I comportamenti non accettabili includono: intimidazioni, offese, violenze, discriminazioni, comportamenti offensivi o umilianti da parte dei partecipanti al Meetup di XXXNOMECITTÀXXX  e agli eventi correlati. Tutte le aree adibite al Meetup di XXXNOMECITTÀXXX  possono essere condivise con altre persone; ci aspettiamo tu sia rispettoso verso tutti i frequentatori di questi luoghi.
 
 Le molestie possono includere: commenti verbali offensivi legati a genere, orientamento sessuale, razza, religione e disabilità; uso inadeguato di nudo e/o di immagini sessuali negli spazi pubblici (comprese le slide di presentazione); intimidazione intenzionale, stalking; fotografie o video inadeguati; interruzione prolungata di talk o altri eventi; contatto fisico inadeguato e attenzioni sessuali non gradite.
