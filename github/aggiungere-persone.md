@@ -1,4 +1,4 @@
-#Come aggiungere persone nei repo e nella organizzazione
+# Come aggiungere persone nei repo e nella organizzazione
 
 ## Tipologie di utenti
 
