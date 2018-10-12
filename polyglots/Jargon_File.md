@@ -53,7 +53,7 @@ Command Line Interface. Terminal (Bash) per il Mac, Command Prompt in Windows, o
 
 ## Contributor Day
 Contributor Days (giornate della contribuzione) sono delle giornate di solito organizzate prima o dopo i WordCamp, ma possono avvenire in qualsiasi momento dell’anno. Sono eventi in cui le persone si riuniscono per lavorare a diversi ambiti di https://make.wordpress.org/ 
-Ci sono molti gruppi di lavoro a cui le persone possono contribuire, ognuno con un focus differente. https://2017.us.wordcamp.org/contributor-day/https://make.wordpress.org/support/handbook/getting-started/getting-started-at-a-contributor-day/.
+Ci sono molti gruppi di lavoro a cui le persone possono contribuire, ognuno con un focus differente. https://2017.us.wordcamp.org/contributor-day/</br>https://make.wordpress.org/support/handbook/getting-started/getting-started-at-a-contributor-day/.
 
 ## Core
 Core è l’insieme del software richiesto per far funzionare WordPress. Il Core Development Team è il gruppo di persone che costruisce WordPress.
@@ -113,7 +113,7 @@ Git è un sistema di controllo di versione del software, distribuito, gratuito e
 GitHub è un sito web che offre un’implementazione online per repository git che possono essere facilmente condivisi, copiati e modificati da altri sviluppatori. I repository pubblici sono gratuiti, i repository privati richiedono una sottoscrizione a pagamento. GitHub ha introdotto il concetto di ‘pull request’ grazie al quale le modifiche al codice fatte nei branch dai contributori possono essere esaminate e discusse prima di essere accorpate dal proprietario del repository. https://github.com/
 
 ## GPL
-GPL è l'acronimo di General Public License. È la licenza Open Source utilizzata come standard da WordPress  https://wordpress.org/about/gpl/. La GPL è una licenza ‘copyleft’ https://www.gnu.org/licenses/copyleft.en.html . Questo comporta che i lavori derivati possano essere distribuiti solo sotto gli stessi termini di licenza e la distingue dalle licenze più permissive per il free software, di cui la licenza BSD e la licenza MIT sono esempi largamente utilizzati.
+GPL è l'acronimo di General Public License. È la licenza Open Source utilizzata come standard da WordPress  https://wordpress.org/about/license/. La GPL è una licenza ‘copyleft’ https://www.gnu.org/licenses/copyleft.en.html . Questo comporta che i lavori derivati possano essere distribuiti solo sotto gli stessi termini di licenza e la distingue dalle licenze più permissive per il free software, di cui la licenza BSD e la licenza MIT sono esempi largamente utilizzati.
 
 ## Gravatar
 È l'acronimo di Globally Recognized Avatar. È il sistema di avatar gestito da WordPress.com. https://en.gravatar.com/.
