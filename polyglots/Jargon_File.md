@@ -2,7 +2,7 @@
 
 Questo documento è la traduzione del Jargon file creato dal team marketing e pubblicato su [Make WordPress](https://make.wordpress.org/marketing/2018/02/28/wordpress-jargon-glossary/).
 
-Il documento è anche scaricabile in formato [PDF (inserire link al pdf creato da @giorgiacastro)](https://github.com/WP-Italia-Community/how-to/blob/master/polyglots/jargon-file/WordPress-Glossario-Jargon-ita.pdf)
+Il documento è anche scaricabile in formato [PDF](https://github.com/WP-Italia-Community/how-to/blob/master/polyglots/jargon-file/WordPress-Glossario-Jargon-ita.pdf)
 
 È facile dimenticare che in WordPress usiamo spesso un linguaggio gergale. Il Marketing Team ha quindi creato questo documento e un PDF scaricabile.
 
