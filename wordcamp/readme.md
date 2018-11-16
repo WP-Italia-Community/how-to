@@ -24,3 +24,5 @@ Nel corso degli anni si sono scritti moltissimi testi per le pagine e i post dei
 # Speaker
 Best practices per la selezione degli speaker, template delle email da usare, guida per la revisione delle slide
 
+# Come contribuire a nuovi template
+* [Processo consigliato e seguito a WCMIL2018](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/come-contribuire-nuovi-template.md).
