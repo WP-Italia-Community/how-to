@@ -9,6 +9,7 @@ Nel corso degli anni si sono scritti moltissimi testi per le pagine e i post dei
 * [Cos’è un WordCamp?](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/Cos-e-un-WordCamp.md)
 * [Cosa aspettarsi da un WordCamp?](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/per-chi-e-wordcamp.md)
 * [Cos’è un Contributor Day?](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/cos-e-il-contributor-day.md)
+* [Call for Volunteers](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/call-for-volunteers.md).
 * [Lettera di richiesta di una venue per un WordCamp](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/richiesta-della-venue.md).
 
 [TODO]
