@@ -11,6 +11,15 @@ Nel corso degli anni si sono scritti moltissimi testi per le pagine e i post dei
 * [Cos’è un Contributor Day?](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/cos-e-il-contributor-day.md)
 * [Lettera di richiesta di una venue per un WordCamp](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/richiesta-della-venue.md).
 
+[TODO]
+* Call for speakers.
+* Call for sponsors.
+* Call for organisers.
+* Accessibility - Quali sono le accessibility features del WordCamp.
+* Info pratiche “Day of”.
+* Eventi collaterali - After Party? Warm Up Party?
+* Budget finale - Recap delle finanze.
+
 
 # Speaker
 Best practices per la selezione degli speaker, template delle email da usare, guida per la revisione delle slide
