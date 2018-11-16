@@ -5,6 +5,7 @@ In particolare
 Nel corso degli anni si sono scritti moltissimi testi per le pagine e i post dei diversi WordCamp, stiamo creando una cartella con testi unificati, da usare come base per eventi futuri che decideranno come e se personalizzarli.
 ## Indice
 - [Codice di condotta](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/codice-di-condotta.md).
+- [Post di annuncio di un WordCamp](https://github.com/WP-Italia-Community/how-to/blob/master/wordcamp/testi-siti-wordcamp/annuncio-WordCamp-data-location.md).
 
 
 
