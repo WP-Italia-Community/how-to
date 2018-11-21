@@ -6,7 +6,7 @@ Ogni contributo conta!
 
 Da rispondere alle domande nel forum di supporto, alla traduzione di plugin e temi, fino alla contribuzione del core, ovvero il codice che sta sotto il cofano.
 
-Tutti possono dare una mano: sviluppatori, designer, content producer, traduttori, tester, esperti di UX e accessibilità, studenti. Chiunque desideri mettere a disposizione le proprie conoscenze  è benvenuto! 
+Tutti possono dare una mano: sviluppatori, designer, content producer, traduttori, tester, esperti di UX e accessibilità, studenti. Chiunque desideri mettere a disposizione le proprie conoscenze è benvenuto! 
 
 Il tuo livello di conoscenza di WordPress non fa differenza.
 
@@ -20,7 +20,7 @@ Se non hai mai contribuito prima e hai voglia di iniziare, questo è il momento 
 
 ## I Team
 
-Il progetto WordPress.org è portato avanti da [14 gruppi di lavoro principali](https://make.wordpress.org/). All’evento parteciperanno membri già attivi della comunità che ti aiuteranno a orientarti.
+Il progetto WordPress.org è portato avanti da [18 gruppi di lavoro principali](https://make.wordpress.org/). All’evento parteciperanno membri già attivi della comunità che ti aiuteranno a orientarti.
 
 I gruppi saranno organizzati al mattino in base a competenze, richieste e disponibilità. Non ci sono regole fisse: durante la giornata si può anche cambiare gruppo di lavoro.
 
