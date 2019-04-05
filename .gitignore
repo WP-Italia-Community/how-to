@@ -50,4 +50,5 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
- 
+# Mac Garbage
+*.DS_Store 

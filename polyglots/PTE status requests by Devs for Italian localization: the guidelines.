@@ -1,0 +1,23 @@
+Following the path of some other locales, here are the guidelines for all WordPress Devs who wish to have their products (themes, plugins) localized in Italian, to give it a wider chance to be adopted by Italian users.
+
+In order to assure the best possible quality for all translations (and therefore for the products you so dearly worked on), we have established a few rules to grant you PTE (Project Translator Editor) status for your product(s):
+
+If YOU want to become a PTE, we follow the WordPress meta handbook for translations recommendations. We will not accept your request if you don’t speak Italian.
+If you don't speak Italian and will have a TRANSLATOR working on your product, please have them work on the WP translate platform
+You should all follow these steps (either YOU, the Dev, or the Translator):
+Get yourselves (again, you AND/OR the translator - both would be best for perfect communication) on the Italian Slack Community.
+Translate as a Contributor;
+A PTE will review the translations;
+A PTE or a GTE (General Translator Editor) will give you (or translator) the opportune feedback;
+If the quality of the translation is up to the standards we all try to follow (remember, a poor translation is as bad for your product as it is for the entire WP ecosystem) You (or your translator) will be granted PTE authority.
+WHY WE FOLLOW THESE GUIDELINES?
+
+We strive at perfection: we aim at having the best possible localization for all products in the WP ecosystem. And that requires that all translations be done in the best possible way.
+It helps us create a community of Italian translators that know each other, and that can support each other when needed.
+We think globally, and aim at consistency.
+It streamlines and optimizes the process, reducing the amount of «improper» translations and, by default, the time spent on rejecting and revising translations. (Thus allowing more time to be devoted to the actual localizing)
+It is not different as what happens on GitHub, where access is not given directly to original code, but allowed through Forks and Pull Requests (just to give you a metaphor that's closer to your approach)
+
+We do feel you can understand that these rules are meant to give You the best possible localization for your product(s), and to give the entire WP community a better UX, a stronger platform and a healthier ecosystem to work on.
+
+We hope everything is clear. If not, you can always catch us on Slack to discuss this further. Happy coding!
