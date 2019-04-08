@@ -8,7 +8,7 @@
 * Adesivi
 * Roll-up banner sponsor
 
-## 3.Materiali grafici per il web e i social
+## 3. Materiali grafici per il web e i social
 
 Banner per sito central
 
@@ -31,19 +31,21 @@ Banner per sito central
 Crea il logo partendo da un elemento grafico base o come il simbolo della città (es. Torino > Mole).  
 Crea sempre almeno due versioni del logo, una orizzontale e una stile coccarda che sarà più utile per immagini profilo facebook e adesivi o simbolo da stampare su magliette.
 
-### BRAND BOARD
+### Brand Board
 * Logo orrizzontale
 * Logo coccarda
 * Wapuu 
 * Elementi grafici 
 * Palette colore e font 
 
-## RISORSE:
+## Risorse:
 Wapuu risorse:
+
 * https://github.com/marktimemedia/my-wapuu
 * https://wapuu.jp/original-wapuu/
 
 Wapuu Ispirazione:
+
 * https://wapuu.jp/
 * https://wapu.us/
 
