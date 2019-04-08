@@ -24,7 +24,7 @@ Banner per sito central
 * Cover twitter
 * Immagine profilo quadrata
 
-### [ ]Grafiche social / blog (per annunci)
+### Grafiche social / blog (per annunci)
 * Call for speaker
 * Call for sponsor
 * Biglietti online
